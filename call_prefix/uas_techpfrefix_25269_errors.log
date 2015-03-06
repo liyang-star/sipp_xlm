@@ -1,0 +1,855 @@
+sipp: The following events occured:
+2014-12-12	10:51:50:760	1418352710.760850: Aborting call on an unexpected BYE for call: 01-47cd8cfb-34bd7c4b-2332a69b-ffffff02.
+2014-12-12	10:51:50:833	1418352710.833816: Dead call 12-29e62179-1844e163-05441e89-fffffef7 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bK46ety42jH559B
+Max-Forwards: 70
+From: <sip:987654340@192.168.1.232:5060>;tag=ap2Qmm6K1FUKc
+To: <sip:5000@192.168.1.239:5060>;tag=20
+Call-ID: 12-29e62179-1844e163-05441e89-fffffef7
+CSeq: 68840196 BYE
+Contact: <sip:987654340@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:50:846	1418352710.846401: Dead call 02-7eea6941-6cd04859-1aefb6e1-ffffff01 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bK5F8j0ZKpeevvQ
+Max-Forwards: 70
+From: <sip:987654330@192.168.1.232:5060>;tag=p187gQNDUXXXm
+To: <sip:5000@192.168.1.239:5060>;tag=10
+Call-ID: 02-7eea6941-6cd04859-1aefb6e1-ffffff01
+CSeq: 68840191 BYE
+Contact: <sip:987654330@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:50:847	1418352710.847184: Dead call 13-6104859c-4f702930-7cfa4af7-fffffef6 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bK6r1B2t4SBQjFK
+Max-Forwards: 70
+From: <sip:987654341@192.168.1.232:5060>;tag=c8m9Qa8tU17rK
+To: <sip:5000@192.168.1.239:5060>;tag=21
+Call-ID: 13-6104859c-4f702930-7cfa4af7-fffffef6
+CSeq: 68840197 BYE
+Contact: <sip:987654341@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:50:859	1418352710.859200: Dead call 03-76bc2131-244c7b0c-51b0528f-ffffff00 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bK71t43NNX8Z81e
+Max-Forwards: 70
+From: <sip:987654331@192.168.1.232:5060>;tag=rKUSmDQmNFa3B
+To: <sip:5000@192.168.1.239:5060>;tag=11
+Call-ID: 03-76bc2131-244c7b0c-51b0528f-ffffff00
+CSeq: 68840192 BYE
+Contact: <sip:987654331@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:50:859	1418352710.859982: Dead call 14-58b0aab3-4713dfbf-7462a1d1-fffffef5 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bK8amX5g6058yma
+Max-Forwards: 70
+From: <sip:987654342@192.168.1.232:5060>;tag=et7tU091NKmya
+To: <sip:5000@192.168.1.239:5060>;tag=22
+Call-ID: 14-58b0aab3-4713dfbf-7462a1d1-fffffef5
+CSeq: 68840197 BYE
+Contact: <sip:987654342@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:50:874	1418352710.874358: Aborting call on an unexpected BYE for call: 16-b25a250-7957781b-2746d199-ffffff0a.
+2014-12-12	10:51:50:875	1418352710.875162: Dead call 04-2e3fff4f-5b8f9080-094cae96-fffffeff (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKaX6e9677ZtBtH
+Max-Forwards: 70
+From: <sip:987654332@192.168.1.232:5060>;tag=t5DBr3rUF1p8j
+To: <sip:5000@192.168.1.239:5060>;tag=12
+Call-ID: 04-2e3fff4f-5b8f9080-094cae96-fffffeff
+CSeq: 68840192 BYE
+Contact: <sip:987654332@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:50:876	1418352710.876065: Dead call 15-10300a69-7df083c1-2bf98f50-fffffef4 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKB6Z7a2rBX31cD
+Max-Forwards: 70
+From: <sip:987654343@192.168.1.232:5060>;tag=gctcZpB9F503H
+To: <sip:5000@192.168.1.239:5060>;tag=23
+Call-ID: 15-10300a69-7df083c1-2bf98f50-fffffef4
+CSeq: 68840198 BYE
+Contact: <sip:987654343@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:50:888	1418352710.888808: Aborting call on an unexpected BYE for call: 17-42a2949e-30b0b9d7-5ed9c47a-ffffff09.
+2014-12-12	10:51:50:891	1418352710.891395: Dead call 05-25019bce-130ff0e8-40f006ad-fffffefe (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKDrjSertjQNejm
+Max-Forwards: 70
+From: <sip:987654333@192.168.1.232:5060>;tag=vQ0vUSt29j3Da
+To: <sip:5000@192.168.1.239:5060>;tag=13
+Call-ID: 05-25019bce-130ff0e8-40f006ad-fffffefe
+CSeq: 68840193 BYE
+Contact: <sip:987654333@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:50:891	1418352710.891809: Dead call 16-7fedc46-35eadc83-23a76a0d-fffffef3 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKe1BjgKBpmy44F
+Max-Forwards: 70
+From: <sip:987654344@192.168.1.232:5060>;tag=jycy2cDgaQD9r
+To: <sip:5000@192.168.1.239:5060>;tag=24
+Call-ID: 16-7fedc46-35eadc83-23a76a0d-fffffef3
+CSeq: 68840198 BYE
+Contact: <sip:987654344@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:50:905	1418352710.905761: Aborting call on an unexpected BYE for call: 18-3b02d48c-28b4922d-5620f0ac-ffffff08.
+2014-12-12	10:51:50:906	1418352710.906983: Dead call 06-5cc21566-4acc5274-38bec8f2-fffffefd (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKgKy3K9cXegHaQ
+Max-Forwards: 70
+From: <sip:987654334@192.168.1.232:5060>;tag=y9jeZFv934FKH
+To: <sip:5000@192.168.1.239:5060>;tag=14
+Call-ID: 06-5cc21566-4acc5274-38bec8f2-fffffefd
+CSeq: 68840193 BYE
+Contact: <sip:987654334@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:50:907	1418352710.907765: Dead call 17-7fbf344c-2d8a80ab-5b3293d5-fffffef2 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKHvQvN4X0BS7vj
+Max-Forwards: 70
+From: <sip:987654345@192.168.1.232:5060>;tag=mgZF62eQ48Seg
+To: <sip:5000@192.168.1.239:5060>;tag=25
+Call-ID: 17-7fbf344c-2d8a80ab-5b3293d5-fffffef2
+CSeq: 68840199 BYE
+Contact: <sip:987654345@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:50:921	1418352710.921587: Aborting call on an unexpected BYE for call: 19-722f6f2c-5fb835a9-4db9b936-ffffff07.
+2014-12-12	10:51:50:922	1418352710.922770: Dead call 07-1472dbd2-41abea23-705e9af8-fffffefc (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKKeaeStZ75am2S
+Max-Forwards: 70
+From: <sip:987654335@192.168.1.232:5060>;tag=0U5Z25Xgypvrr
+To: <sip:5000@192.168.1.239:5060>;tag=15
+Call-ID: 07-1472dbd2-41abea23-705e9af8-fffffefc
+CSeq: 68840194 BYE
+Contact: <sip:987654335@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:50:923	1418352710.923617: Dead call 18-36e79607-25310f42-124e7f95-fffffef1 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKmQ36tNgB3KaNN
+Max-Forwards: 70
+From: <sip:987654346@192.168.1.232:5060>;tag=p2H19rgyyt6KQ
+To: <sip:5000@192.168.1.239:5060>;tag=26
+Call-ID: 18-36e79607-25310f42-124e7f95-fffffef1
+CSeq: 68840199 BYE
+Contact: <sip:987654346@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:50:937	1418352710.937824: Aborting call on an unexpected BYE for call: 20-28d94e57-1716a3d0-454e1409-ffffff06.
+2014-12-12	10:51:50:938	1418352710.938237: Dead call 08-4c204f92-7911d6b2-67d0d157-fffffefb (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKp9NryBjjX5ptc
+Max-Forwards: 70
+From: <sip:987654336@192.168.1.232:5060>;tag=2DrH6UZQr88XF
+To: <sip:5000@192.168.1.239:5060>;tag=16
+Call-ID: 08-4c204f92-7911d6b2-67d0d157-fffffefb
+CSeq: 68840194 BYE
+Contact: <sip:987654336@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:50:953	1418352710.953236: Aborting call on an unexpected BYE for call: 21-20db6595-4f3f0593-3ca192f5-ffffff05.
+2014-12-12	10:51:50:954	1418352710.954481: Dead call 09-3795f6c-30c912b4-5f45d7a4-fffffefa (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKrU8911KSQQ3ZK
+Max-Forwards: 70
+From: <sip:987654337@192.168.1.232:5060>;tag=4Za39H1yjtN3p
+To: <sip:5000@192.168.1.239:5060>;tag=17
+Call-ID: 09-3795f6c-30c912b4-5f45d7a4-fffffefa
+CSeq: 68840195 BYE
+Contact: <sip:987654337@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:50:968	1418352710.968733: Aborting call on an unexpected BYE for call: 00-5876536e-0613597e-3409278e-ffffff04.
+2014-12-12	10:51:50:969	1418352710.969856: Dead call 10-3af8125e-288d5bf3-16044ca8-fffffef9 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKtDUU5QN0H9F5a
+Max-Forwards: 70
+From: <sip:987654338@192.168.1.232:5060>;tag=6HXmD825cc28D
+To: <sip:5000@192.168.1.239:5060>;tag=18
+Call-ID: 10-3af8125e-288d5bf3-16044ca8-fffffef9
+CSeq: 68840195 BYE
+Contact: <sip:987654338@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:50:982	1418352710.982861: Aborting call on an unexpected BYE for call: 00-fda0138-7de30964-2bc5c45e-ffffff03.
+2014-12-12	10:51:50:984	1418352710.984109: Dead call 11-724aaed0-60c7aeab-4dd1942a-fffffef8 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKvZDD9DQ7BUvaj
+Max-Forwards: 70
+From: <sip:987654339@192.168.1.232:5060>;tag=83F6gy4c7XeeN
+To: <sip:5000@192.168.1.239:5060>;tag=19
+Call-ID: 11-724aaed0-60c7aeab-4dd1942a-fffffef8
+CSeq: 68840196 BYE
+Contact: <sip:987654339@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:51:835	1418352711.835502: Dead call 12-29e62179-1844e163-05441e89-fffffef7 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bK46ety42jH559B
+Max-Forwards: 70
+From: <sip:987654340@192.168.1.232:5060>;tag=ap2Qmm6K1FUKc
+To: <sip:5000@192.168.1.239:5060>;tag=20
+Call-ID: 12-29e62179-1844e163-05441e89-fffffef7
+CSeq: 68840196 BYE
+Contact: <sip:987654340@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:51:845	1418352711.845681: Dead call 02-7eea6941-6cd04859-1aefb6e1-ffffff01 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bK5F8j0ZKpeevvQ
+Max-Forwards: 70
+From: <sip:987654330@192.168.1.232:5060>;tag=p187gQNDUXXXm
+To: <sip:5000@192.168.1.239:5060>;tag=10
+Call-ID: 02-7eea6941-6cd04859-1aefb6e1-ffffff01
+CSeq: 68840191 BYE
+Contact: <sip:987654330@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:51:846	1418352711.846102: Dead call 13-6104859c-4f702930-7cfa4af7-fffffef6 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bK6r1B2t4SBQjFK
+Max-Forwards: 70
+From: <sip:987654341@192.168.1.232:5060>;tag=c8m9Qa8tU17rK
+To: <sip:5000@192.168.1.239:5060>;tag=21
+Call-ID: 13-6104859c-4f702930-7cfa4af7-fffffef6
+CSeq: 68840197 BYE
+Contact: <sip:987654341@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:51:858	1418352711.858917: Dead call 03-76bc2131-244c7b0c-51b0528f-ffffff00 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bK71t43NNX8Z81e
+Max-Forwards: 70
+From: <sip:987654331@192.168.1.232:5060>;tag=rKUSmDQmNFa3B
+To: <sip:5000@192.168.1.239:5060>;tag=11
+Call-ID: 03-76bc2131-244c7b0c-51b0528f-ffffff00
+CSeq: 68840192 BYE
+Contact: <sip:987654331@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:51:859	1418352711.859331: Dead call 14-58b0aab3-4713dfbf-7462a1d1-fffffef5 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bK8amX5g6058yma
+Max-Forwards: 70
+From: <sip:987654342@192.168.1.232:5060>;tag=et7tU091NKmya
+To: <sip:5000@192.168.1.239:5060>;tag=22
+Call-ID: 14-58b0aab3-4713dfbf-7462a1d1-fffffef5
+CSeq: 68840197 BYE
+Contact: <sip:987654342@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:51:874	1418352711.874152: Dead call 04-2e3fff4f-5b8f9080-094cae96-fffffeff (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKaX6e9677ZtBtH
+Max-Forwards: 70
+From: <sip:987654332@192.168.1.232:5060>;tag=t5DBr3rUF1p8j
+To: <sip:5000@192.168.1.239:5060>;tag=12
+Call-ID: 04-2e3fff4f-5b8f9080-094cae96-fffffeff
+CSeq: 68840192 BYE
+Contact: <sip:987654332@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:51:874	1418352711.874566: Dead call 15-10300a69-7df083c1-2bf98f50-fffffef4 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKB6Z7a2rBX31cD
+Max-Forwards: 70
+From: <sip:987654343@192.168.1.232:5060>;tag=gctcZpB9F503H
+To: <sip:5000@192.168.1.239:5060>;tag=23
+Call-ID: 15-10300a69-7df083c1-2bf98f50-fffffef4
+CSeq: 68840198 BYE
+Contact: <sip:987654343@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:51:890	1418352711.890372: Dead call 05-25019bce-130ff0e8-40f006ad-fffffefe (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKDrjSertjQNejm
+Max-Forwards: 70
+From: <sip:987654333@192.168.1.232:5060>;tag=vQ0vUSt29j3Da
+To: <sip:5000@192.168.1.239:5060>;tag=13
+Call-ID: 05-25019bce-130ff0e8-40f006ad-fffffefe
+CSeq: 68840193 BYE
+Contact: <sip:987654333@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:51:890	1418352711.890785: Dead call 16-7fedc46-35eadc83-23a76a0d-fffffef3 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKe1BjgKBpmy44F
+Max-Forwards: 70
+From: <sip:987654344@192.168.1.232:5060>;tag=jycy2cDgaQD9r
+To: <sip:5000@192.168.1.239:5060>;tag=24
+Call-ID: 16-7fedc46-35eadc83-23a76a0d-fffffef3
+CSeq: 68840198 BYE
+Contact: <sip:987654344@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:51:905	1418352711.905600: Dead call 06-5cc21566-4acc5274-38bec8f2-fffffefd (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKgKy3K9cXegHaQ
+Max-Forwards: 70
+From: <sip:987654334@192.168.1.232:5060>;tag=y9jeZFv934FKH
+To: <sip:5000@192.168.1.239:5060>;tag=14
+Call-ID: 06-5cc21566-4acc5274-38bec8f2-fffffefd
+CSeq: 68840193 BYE
+Contact: <sip:987654334@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:51:906	1418352711.906015: Dead call 17-7fbf344c-2d8a80ab-5b3293d5-fffffef2 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKHvQvN4X0BS7vj
+Max-Forwards: 70
+From: <sip:987654345@192.168.1.232:5060>;tag=mgZF62eQ48Seg
+To: <sip:5000@192.168.1.239:5060>;tag=25
+Call-ID: 17-7fbf344c-2d8a80ab-5b3293d5-fffffef2
+CSeq: 68840199 BYE
+Contact: <sip:987654345@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:51:920	1418352711.920576: Dead call 07-1472dbd2-41abea23-705e9af8-fffffefc (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKKeaeStZ75am2S
+Max-Forwards: 70
+From: <sip:987654335@192.168.1.232:5060>;tag=0U5Z25Xgypvrr
+To: <sip:5000@192.168.1.239:5060>;tag=15
+Call-ID: 07-1472dbd2-41abea23-705e9af8-fffffefc
+CSeq: 68840194 BYE
+Contact: <sip:987654335@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:51:921	1418352711.921730: Dead call 18-36e79607-25310f42-124e7f95-fffffef1 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKmQ36tNgB3KaNN
+Max-Forwards: 70
+From: <sip:987654346@192.168.1.232:5060>;tag=p2H19rgyyt6KQ
+To: <sip:5000@192.168.1.239:5060>;tag=26
+Call-ID: 18-36e79607-25310f42-124e7f95-fffffef1
+CSeq: 68840199 BYE
+Contact: <sip:987654346@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:51:936	1418352711.936907: Dead call 08-4c204f92-7911d6b2-67d0d157-fffffefb (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKp9NryBjjX5ptc
+Max-Forwards: 70
+From: <sip:987654336@192.168.1.232:5060>;tag=2DrH6UZQr88XF
+To: <sip:5000@192.168.1.239:5060>;tag=16
+Call-ID: 08-4c204f92-7911d6b2-67d0d157-fffffefb
+CSeq: 68840194 BYE
+Contact: <sip:987654336@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:51:953	1418352711.953094: Dead call 09-3795f6c-30c912b4-5f45d7a4-fffffefa (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKrU8911KSQQ3ZK
+Max-Forwards: 70
+From: <sip:987654337@192.168.1.232:5060>;tag=4Za39H1yjtN3p
+To: <sip:5000@192.168.1.239:5060>;tag=17
+Call-ID: 09-3795f6c-30c912b4-5f45d7a4-fffffefa
+CSeq: 68840195 BYE
+Contact: <sip:987654337@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:51:968	1418352711.968260: Dead call 10-3af8125e-288d5bf3-16044ca8-fffffef9 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKtDUU5QN0H9F5a
+Max-Forwards: 70
+From: <sip:987654338@192.168.1.232:5060>;tag=6HXmD825cc28D
+To: <sip:5000@192.168.1.239:5060>;tag=18
+Call-ID: 10-3af8125e-288d5bf3-16044ca8-fffffef9
+CSeq: 68840195 BYE
+Contact: <sip:987654338@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:51:984	1418352711.984448: Dead call 11-724aaed0-60c7aeab-4dd1942a-fffffef8 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKvZDD9DQ7BUvaj
+Max-Forwards: 70
+From: <sip:987654339@192.168.1.232:5060>;tag=83F6gy4c7XeeN
+To: <sip:5000@192.168.1.239:5060>;tag=19
+Call-ID: 11-724aaed0-60c7aeab-4dd1942a-fffffef8
+CSeq: 68840196 BYE
+Contact: <sip:987654339@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:52:004	1418352712.004083: Dead call 19-6e95a211-1c0426f0-49b00a32-fffffef0 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKX865a97a93jXD
+Max-Forwards: 70
+From: <sip:987654347@192.168.1.232:5060>;tag=rm4jDFj5rcKSe
+To: <sip:5000@192.168.1.239:5060>;tag=27
+Call-ID: 19-6e95a211-1c0426f0-49b00a32-fffffef0
+CSeq: 68840200 BYE
+Contact: <sip:987654347@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:53:003	1418352713.003184: Dead call 20-65cce6a9-138724a1-01485d01-fffffeef (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKyH0yc4re6c9FS
+Max-Forwards: 70
+From: <sip:987654348@192.168.1.232:5060>;tag=t6p4g5KcKyZyN
+To: <sip:5000@192.168.1.239:5060>;tag=28
+Call-ID: 20-65cce6a9-138724a1-01485d01-fffffeef
+CSeq: 68840200 BYE
+Contact: <sip:987654348@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:53:004	1418352713.004539: Dead call 19-6e95a211-1c0426f0-49b00a32-fffffef0 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKX865a97a93jXD
+Max-Forwards: 70
+From: <sip:987654347@192.168.1.232:5060>;tag=rm4jDFj5rcKSe
+To: <sip:5000@192.168.1.239:5060>;tag=27
+Call-ID: 19-6e95a211-1c0426f0-49b00a32-fffffef0
+CSeq: 68840200 BYE
+Contact: <sip:987654347@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:53:837	1418352713.837621: Dead call 12-29e62179-1844e163-05441e89-fffffef7 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bK46ety42jH559B
+Max-Forwards: 70
+From: <sip:987654340@192.168.1.232:5060>;tag=ap2Qmm6K1FUKc
+To: <sip:5000@192.168.1.239:5060>;tag=20
+Call-ID: 12-29e62179-1844e163-05441e89-fffffef7
+CSeq: 68840196 BYE
+Contact: <sip:987654340@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:53:845	1418352713.845811: Dead call 02-7eea6941-6cd04859-1aefb6e1-ffffff01 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bK5F8j0ZKpeevvQ
+Max-Forwards: 70
+From: <sip:987654330@192.168.1.232:5060>;tag=p187gQNDUXXXm
+To: <sip:5000@192.168.1.239:5060>;tag=10
+Call-ID: 02-7eea6941-6cd04859-1aefb6e1-ffffff01
+CSeq: 68840191 BYE
+Contact: <sip:987654330@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:53:846	1418352713.846227: Dead call 13-6104859c-4f702930-7cfa4af7-fffffef6 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bK6r1B2t4SBQjFK
+Max-Forwards: 70
+From: <sip:987654341@192.168.1.232:5060>;tag=c8m9Qa8tU17rK
+To: <sip:5000@192.168.1.239:5060>;tag=21
+Call-ID: 13-6104859c-4f702930-7cfa4af7-fffffef6
+CSeq: 68840197 BYE
+Contact: <sip:987654341@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:53:859	1418352713.859028: Dead call 03-76bc2131-244c7b0c-51b0528f-ffffff00 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bK71t43NNX8Z81e
+Max-Forwards: 70
+From: <sip:987654331@192.168.1.232:5060>;tag=rKUSmDQmNFa3B
+To: <sip:5000@192.168.1.239:5060>;tag=11
+Call-ID: 03-76bc2131-244c7b0c-51b0528f-ffffff00
+CSeq: 68840192 BYE
+Contact: <sip:987654331@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:53:859	1418352713.859444: Dead call 14-58b0aab3-4713dfbf-7462a1d1-fffffef5 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bK8amX5g6058yma
+Max-Forwards: 70
+From: <sip:987654342@192.168.1.232:5060>;tag=et7tU091NKmya
+To: <sip:5000@192.168.1.239:5060>;tag=22
+Call-ID: 14-58b0aab3-4713dfbf-7462a1d1-fffffef5
+CSeq: 68840197 BYE
+Contact: <sip:987654342@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:53:874	1418352713.874237: Dead call 04-2e3fff4f-5b8f9080-094cae96-fffffeff (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKaX6e9677ZtBtH
+Max-Forwards: 70
+From: <sip:987654332@192.168.1.232:5060>;tag=t5DBr3rUF1p8j
+To: <sip:5000@192.168.1.239:5060>;tag=12
+Call-ID: 04-2e3fff4f-5b8f9080-094cae96-fffffeff
+CSeq: 68840192 BYE
+Contact: <sip:987654332@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:53:874	1418352713.874649: Dead call 15-10300a69-7df083c1-2bf98f50-fffffef4 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKB6Z7a2rBX31cD
+Max-Forwards: 70
+From: <sip:987654343@192.168.1.232:5060>;tag=gctcZpB9F503H
+To: <sip:5000@192.168.1.239:5060>;tag=23
+Call-ID: 15-10300a69-7df083c1-2bf98f50-fffffef4
+CSeq: 68840198 BYE
+Contact: <sip:987654343@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:53:890	1418352713.890357: Dead call 05-25019bce-130ff0e8-40f006ad-fffffefe (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKDrjSertjQNejm
+Max-Forwards: 70
+From: <sip:987654333@192.168.1.232:5060>;tag=vQ0vUSt29j3Da
+To: <sip:5000@192.168.1.239:5060>;tag=13
+Call-ID: 05-25019bce-130ff0e8-40f006ad-fffffefe
+CSeq: 68840193 BYE
+Contact: <sip:987654333@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:53:890	1418352713.890771: Dead call 16-7fedc46-35eadc83-23a76a0d-fffffef3 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKe1BjgKBpmy44F
+Max-Forwards: 70
+From: <sip:987654344@192.168.1.232:5060>;tag=jycy2cDgaQD9r
+To: <sip:5000@192.168.1.239:5060>;tag=24
+Call-ID: 16-7fedc46-35eadc83-23a76a0d-fffffef3
+CSeq: 68840198 BYE
+Contact: <sip:987654344@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:53:905	1418352713.905553: Dead call 06-5cc21566-4acc5274-38bec8f2-fffffefd (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKgKy3K9cXegHaQ
+Max-Forwards: 70
+From: <sip:987654334@192.168.1.232:5060>;tag=y9jeZFv934FKH
+To: <sip:5000@192.168.1.239:5060>;tag=14
+Call-ID: 06-5cc21566-4acc5274-38bec8f2-fffffefd
+CSeq: 68840193 BYE
+Contact: <sip:987654334@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:53:905	1418352713.905968: Dead call 17-7fbf344c-2d8a80ab-5b3293d5-fffffef2 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKHvQvN4X0BS7vj
+Max-Forwards: 70
+From: <sip:987654345@192.168.1.232:5060>;tag=mgZF62eQ48Seg
+To: <sip:5000@192.168.1.239:5060>;tag=25
+Call-ID: 17-7fbf344c-2d8a80ab-5b3293d5-fffffef2
+CSeq: 68840199 BYE
+Contact: <sip:987654345@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:53:920	1418352713.920552: Dead call 07-1472dbd2-41abea23-705e9af8-fffffefc (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKKeaeStZ75am2S
+Max-Forwards: 70
+From: <sip:987654335@192.168.1.232:5060>;tag=0U5Z25Xgypvrr
+To: <sip:5000@192.168.1.239:5060>;tag=15
+Call-ID: 07-1472dbd2-41abea23-705e9af8-fffffefc
+CSeq: 68840194 BYE
+Contact: <sip:987654335@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:53:921	1418352713.921702: Dead call 18-36e79607-25310f42-124e7f95-fffffef1 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKmQ36tNgB3KaNN
+Max-Forwards: 70
+From: <sip:987654346@192.168.1.232:5060>;tag=p2H19rgyyt6KQ
+To: <sip:5000@192.168.1.239:5060>;tag=26
+Call-ID: 18-36e79607-25310f42-124e7f95-fffffef1
+CSeq: 68840199 BYE
+Contact: <sip:987654346@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:53:936	1418352713.936859: Dead call 08-4c204f92-7911d6b2-67d0d157-fffffefb (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKp9NryBjjX5ptc
+Max-Forwards: 70
+From: <sip:987654336@192.168.1.232:5060>;tag=2DrH6UZQr88XF
+To: <sip:5000@192.168.1.239:5060>;tag=16
+Call-ID: 08-4c204f92-7911d6b2-67d0d157-fffffefb
+CSeq: 68840194 BYE
+Contact: <sip:987654336@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:53:954	1418352713.954014: Dead call 09-3795f6c-30c912b4-5f45d7a4-fffffefa (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKrU8911KSQQ3ZK
+Max-Forwards: 70
+From: <sip:987654337@192.168.1.232:5060>;tag=4Za39H1yjtN3p
+To: <sip:5000@192.168.1.239:5060>;tag=17
+Call-ID: 09-3795f6c-30c912b4-5f45d7a4-fffffefa
+CSeq: 68840195 BYE
+Contact: <sip:987654337@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:53:968	1418352713.968183: Dead call 10-3af8125e-288d5bf3-16044ca8-fffffef9 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKtDUU5QN0H9F5a
+Max-Forwards: 70
+From: <sip:987654338@192.168.1.232:5060>;tag=6HXmD825cc28D
+To: <sip:5000@192.168.1.239:5060>;tag=18
+Call-ID: 10-3af8125e-288d5bf3-16044ca8-fffffef9
+CSeq: 68840195 BYE
+Contact: <sip:987654338@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:53:984	1418352713.984338: Dead call 11-724aaed0-60c7aeab-4dd1942a-fffffef8 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKvZDD9DQ7BUvaj
+Max-Forwards: 70
+From: <sip:987654339@192.168.1.232:5060>;tag=83F6gy4c7XeeN
+To: <sip:5000@192.168.1.239:5060>;tag=19
+Call-ID: 11-724aaed0-60c7aeab-4dd1942a-fffffef8
+CSeq: 68840196 BYE
+Contact: <sip:987654339@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:54:003	1418352714.003534: Dead call 20-65cce6a9-138724a1-01485d01-fffffeef (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKyH0yc4re6c9FS
+Max-Forwards: 70
+From: <sip:987654348@192.168.1.232:5060>;tag=t6p4g5KcKyZyN
+To: <sip:5000@192.168.1.239:5060>;tag=28
+Call-ID: 20-65cce6a9-138724a1-01485d01-fffffeef
+CSeq: 68840200 BYE
+Contact: <sip:987654348@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:54:011	1418352714.011631: Dead call 21-5d7a9143-4b4c2c6b-79764c9c-fffffeee (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKZtSQeZ9H3NZ2m
+Max-Forwards: 70
+From: <sip:987654349@192.168.1.232:5060>;tag=vr9NmUNKDgc4c
+To: <sip:5000@192.168.1.239:5060>;tag=29
+Call-ID: 21-5d7a9143-4b4c2c6b-79764c9c-fffffeee
+CSeq: 68840201 BYE
+Contact: <sip:987654349@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:54:909	1418352714.909114: Dead call 00-5559c7e1-028d2b6b-309cc816-fffffeed (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bK03jggttN0yNNg
+Max-Forwards: 70
+From: <sip:987654350@192.168.1.232:5060>;tag=yav7QHQt71r9K
+To: <sip:5000@192.168.1.239:5060>;tag=30
+Call-ID: 00-5559c7e1-028d2b6b-309cc816-fffffeed
+CSeq: 68840201 BYE
+Contact: <sip:987654350@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:55:004	1418352715.004730: Dead call 19-6e95a211-1c0426f0-49b00a32-fffffef0 (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKX865a97a93jXD
+Max-Forwards: 70
+From: <sip:987654347@192.168.1.232:5060>;tag=rm4jDFj5rcKSe
+To: <sip:5000@192.168.1.239:5060>;tag=27
+Call-ID: 19-6e95a211-1c0426f0-49b00a32-fffffef0
+CSeq: 68840200 BYE
+Contact: <sip:987654347@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:55:011	1418352715.011891: Dead call 21-5d7a9143-4b4c2c6b-79764c9c-fffffeee (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKZtSQeZ9H3NZ2m
+Max-Forwards: 70
+From: <sip:987654349@192.168.1.232:5060>;tag=vr9NmUNKDgc4c
+To: <sip:5000@192.168.1.239:5060>;tag=29
+Call-ID: 21-5d7a9143-4b4c2c6b-79764c9c-fffffeee
+CSeq: 68840201 BYE
+Contact: <sip:987654349@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:55:908	1418352715.908459: Dead call 00-bc72270-7a6da589-685051c3-fffffeec (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bK1cc9HNBSX7B8B
+Max-Forwards: 70
+From: <sip:987654351@192.168.1.232:5060>;tag=0veSU7r11K5eB
+To: <sip:5000@192.168.1.239:5060>;tag=31
+Call-ID: 00-bc72270-7a6da589-685051c3-fffffeec
+CSeq: 68840202 BYE
+Contact: <sip:987654351@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:55:909	1418352715.909411: Dead call 00-5559c7e1-028d2b6b-309cc816-fffffeed (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bK03jggttN0yNNg
+Max-Forwards: 70
+From: <sip:987654350@192.168.1.232:5060>;tag=yav7QHQt71r9K
+To: <sip:5000@192.168.1.239:5060>;tag=30
+Call-ID: 00-5559c7e1-028d2b6b-309cc816-fffffeed
+CSeq: 68840201 BYE
+Contact: <sip:987654350@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:56:003	1418352716.003181: Dead call 20-65cce6a9-138724a1-01485d01-fffffeef (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKyH0yc4re6c9FS
+Max-Forwards: 70
+From: <sip:987654348@192.168.1.232:5060>;tag=t6p4g5KcKyZyN
+To: <sip:5000@192.168.1.239:5060>;tag=28
+Call-ID: 20-65cce6a9-138724a1-01485d01-fffffeef
+CSeq: 68840200 BYE
+Contact: <sip:987654348@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:56:907	1418352716.907270: Dead call 01-3c63c4d-71770203-601abf59-fffffeeb (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bK2N51Kgvvtg2tQ
+Max-Forwards: 70
+From: <sip:987654352@192.168.1.232:5060>;tag=2e1aZXt8U5Hmj
+To: <sip:5000@192.168.1.239:5060>;tag=32
+Call-ID: 01-3c63c4d-71770203-601abf59-fffffeeb
+CSeq: 68840202 BYE
+Contact: <sip:987654352@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:56:908	1418352716.908439: Dead call 00-bc72270-7a6da589-685051c3-fffffeec (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bK1cc9HNBSX7B8B
+Max-Forwards: 70
+From: <sip:987654351@192.168.1.232:5060>;tag=0veSU7r11K5eB
+To: <sip:5000@192.168.1.239:5060>;tag=31
+Call-ID: 00-bc72270-7a6da589-685051c3-fffffeec
+CSeq: 68840202 BYE
+Contact: <sip:987654351@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2014-12-12	10:51:57:011	1418352717.011568: Dead call 21-5d7a9143-4b4c2c6b-79764c9c-fffffeee (successful), received 'BYE sip:192.168.1.239:5060;transport=UDP SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.232;rport;branch=z9hG4bKZtSQeZ9H3NZ2m
+Max-Forwards: 70
+From: <sip:987654349@192.168.1.232:5060>;tag=vr9NmUNKDgc4c
+To: <sip:5000@192.168.1.239:5060>;tag=29
+Call-ID: 21-5d7a9143-4b4c2c6b-79764c9c-fffffeee
+CSeq: 68840201 BYE
+Contact: <sip:987654349@192.168.1.232:5060>
+User-Agent: DNL-Switch
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.

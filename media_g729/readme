@@ -1,0 +1,10 @@
+ ./sipp -sf uac-pcap.xml -inf user1.csv -i 192.168.1.100 -p 5000 192.168.1.115:7878 -key call_prefix 86 -m 10 -r 1
+
+m 最大呼叫数量
+r 每秒并发数
+call_prefix  ingress呼叫前缀
+
+
+ ./sipp -sf uas_pcap.xml -p 6363 -i 192.168.1.100
+
+

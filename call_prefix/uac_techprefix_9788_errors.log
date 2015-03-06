@@ -1,0 +1,121 @@
+sipp: The following events occured:
+2015-01-06	18:36:45:657	1420540605.657705: Aborting call on unexpected message for Call-Id '1-9788@192.168.1.239': while expecting '180' (index 2), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 192.168.1.239:4444;branch=z9hG4bK-9788-1-0
+From: sipp <sip:1000@192.168.1.239:4444>;tag=1
+To: <sip:995000@192.168.1.232:5060>;tag=3pUBgNeev3KFa
+Call-ID: 1-9788@192.168.1.239
+CSeq: 1 INVITE
+User-Agent: DNL-Switch
+Accept: application/sdp
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2015-01-06	18:36:46:657	1420540606.657643: Aborting call on unexpected message for Call-Id '2-9788@192.168.1.239': while expecting '180' (index 2), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 192.168.1.239:4444;branch=z9hG4bK-9788-2-0
+From: sipp <sip:1001@192.168.1.239:4444>;tag=2
+To: <sip:988888@192.168.1.232:5060>;tag=4Zm4HgZHSca2N
+Call-ID: 2-9788@192.168.1.239
+CSeq: 1 INVITE
+User-Agent: DNL-Switch
+Accept: application/sdp
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2015-01-06	18:36:47:657	1420540607.657595: Aborting call on unexpected message for Call-Id '3-9788@192.168.1.239': while expecting '180' (index 2), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 192.168.1.239:4444;branch=z9hG4bK-9788-3-0
+From: sipp <sip:1002@192.168.1.239:4444>;tag=3
+To: <sip:977777@192.168.1.232:5060>;tag=58DXKBgNpN0mH
+Call-ID: 3-9788@192.168.1.239
+CSeq: 1 INVITE
+User-Agent: DNL-Switch
+Accept: application/sdp
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2015-01-06	18:36:48:657	1420540608.657638: Aborting call on unexpected message for Call-Id '4-9788@192.168.1.239': while expecting '180' (index 2), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 192.168.1.239:4444;branch=z9hG4bK-9788-4-0
+From: sipp <sip:1003@192.168.1.239:4444>;tag=4
+To: <sip:966555@192.168.1.232:5060>;tag=6H7NN60rKyp7c
+Call-ID: 4-9788@192.168.1.239
+CSeq: 1 INVITE
+User-Agent: DNL-Switch
+Accept: application/sdp
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2015-01-06	18:36:49:657	1420540609.657650: Aborting call on unexpected message for Call-Id '5-9788@192.168.1.239': while expecting '180' (index 2), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 192.168.1.239:4444;branch=z9hG4bK-9788-5-0
+From: sipp <sip:1004@192.168.1.239:4444>;tag=5
+To: <sip:956633@192.168.1.232:5060>;tag=7t0eQ1Hvg7ctr
+Call-ID: 5-9788@192.168.1.239
+CSeq: 1 INVITE
+User-Agent: DNL-Switch
+Accept: application/sdp
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2015-01-06	18:36:50:657	1420540610.657582: Aborting call on unexpected message for Call-Id '6-9788@192.168.1.239': while expecting '180' (index 2), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 192.168.1.239:4444;branch=z9hG4bK-9788-6-0
+From: sipp <sip:1005@192.168.1.239:4444>;tag=6
+To: <sip:944444@192.168.1.232:5060>;tag=83S7rv2ZDg3cm
+Call-ID: 6-9788@192.168.1.239
+CSeq: 1 INVITE
+User-Agent: DNL-Switch
+Accept: application/sdp
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2015-01-06	18:36:51:657	1420540611.657638: Aborting call on unexpected message for Call-Id '7-9788@192.168.1.239': while expecting '180' (index 2), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 192.168.1.239:4444;branch=z9hG4bK-9788-7-0
+From: sipp <sip:1006@192.168.1.239:4444>;tag=7
+To: <sip:9335555@192.168.1.232:5060>;tag=9cK0tQK3aSSZF
+Call-ID: 7-9788@192.168.1.239
+CSeq: 1 INVITE
+User-Agent: DNL-Switch
+Accept: application/sdp
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2015-01-06	18:36:52:657	1420540612.657645: Aborting call on unexpected message for Call-Id '8-9788@192.168.1.239': while expecting '180' (index 2), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 192.168.1.239:4444;branch=z9hG4bK-9788-8-0
+From: sipp <sip:1007@192.168.1.239:4444>;tag=8
+To: <sip:9225663@192.168.1.232:5060>;tag=apcSvj4671FjB
+Call-ID: 8-9788@192.168.1.239
+CSeq: 1 INVITE
+User-Agent: DNL-Switch
+Accept: application/sdp
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2015-01-06	18:36:53:657	1420540613.657598: Aborting call on unexpected message for Call-Id '9-9788@192.168.1.239': while expecting '180' (index 2), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 192.168.1.239:4444;branch=z9hG4bK-9788-9-0
+From: sipp <sip:1008@192.168.1.239:4444>;tag=9
+To: <sip:915666@192.168.1.232:5060>;tag=BZ5HyDNa5a64p
+Call-ID: 9-9788@192.168.1.239
+CSeq: 1 INVITE
+User-Agent: DNL-Switch
+Accept: application/sdp
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
+2015-01-06	18:36:54:657	1420540614.657586: Aborting call on unexpected message for Call-Id '10-9788@192.168.1.239': while expecting '180' (index 2), received 'SIP/2.0 403 Forbidden
+Via: SIP/2.0/UDP 192.168.1.239:4444;branch=z9hG4bK-9788-10-0
+From: sipp <sip:1000@192.168.1.239:4444>;tag=10
+To: <sip:995000@192.168.1.232:5060>;tag=c8ya085D2KvQj
+Call-ID: 10-9788@192.168.1.239
+CSeq: 1 INVITE
+User-Agent: DNL-Switch
+Accept: application/sdp
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, INFO, REGISTER
+Content-Length: 0
+
+'.
